@@ -1,3 +1,3 @@
 #Java_MusicWriter
 
-Long term project to write code tht listen's to a user sing and returns the correpsoning sheet music
+Long term project to write code that listens to a user singing and returns the corresponding sheet music
